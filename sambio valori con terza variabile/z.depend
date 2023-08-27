@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1508935737 source:c:\users\piero\desktop\z\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1508935302 source:c:\users\piero\desktop\z\scambio variabili.c
+	<stdio.h>
+	<stdlib.h>
+

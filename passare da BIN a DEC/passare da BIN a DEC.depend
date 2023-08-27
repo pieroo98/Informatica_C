@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1513792020 source:c:\users\piero\desktop\passare da bin a dec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1643390957 source:c:\users\piero\desktop\polito\informatica\passare da bin a dec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+

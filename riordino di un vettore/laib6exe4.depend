@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1513769169 source:c:\users\piero\desktop\laib6exe4\main.c
+	<stdio.h>
+	<stdlib.h>
+

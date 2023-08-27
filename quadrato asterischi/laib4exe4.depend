@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1511293959 source:c:\users\piero\desktop\laib4exe4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1511293959 source:c:\users\piero\desktop\informatica\quadrato asterischi\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1511612201 source:c:\users\piero\desktop\serie fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1511612409 source:c:\users\piero\desktop\informatica\serie fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+
