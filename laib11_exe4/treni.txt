@@ -1,0 +1,6 @@
+roma 22:10:00 milano 23:12:34
+catania 06:43:22 palermo 12:12:12
+torino 00:29:54 mantova 11:30:54
+milano 04:17:47 genova 20:34:54
+milano 06:00:12 napoli 16:07:12
+terni 09:05:00 milano 11:13:00

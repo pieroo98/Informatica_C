@@ -1,0 +1,10 @@
+storia mario rossi 1 14 54
+inglese giusi demetrio 1 6 39
+matematica ciccio vinciprova 1 10 55
+fisica ciccio vinciprova 2 12 60
+francese carla conte 2 5 49
+latino giacomo belvedere 2 8 65
+disegno luigi capuana 2 4 99
+ed.fisica gigia gambuzza 2 6 55
+italiano giacomo belvedere 1 10 70
+informatica ciccio vinciprova 1 11 67

@@ -1,0 +1,6 @@
+roma 2:30 torino 6:30
+catania 5:45 palermo 8:45
+milano 17:10 mantova 18:30
+genova 10:00 torino 11:10
+torino 20:50 aosta 23:00
+torino 16:23 napoli 22:00
