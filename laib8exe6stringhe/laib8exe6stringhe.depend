@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1515435251 source:c:\users\piero\desktop\laib8exe6stringhe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1515435286 source:c:\users\piero\desktop\informatica\laib8exe6stringhe_inc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1516286529 source:c:\users\piero\desktop\informatica\laib8exe6stringhe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515176616 source:c:\users\piero\desktop\laib8exe3stringhe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

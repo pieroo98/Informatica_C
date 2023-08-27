@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515089567 source:c:\users\piero\desktop\laib7exe7stringhe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
