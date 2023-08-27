@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1511613723 source:c:\users\piero\desktop\laib4exe6\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1511614363 source:c:\users\piero\desktop\informatica\laib4exe6\main.c
+	<stdio.h>
+	<stdlib.h>
+

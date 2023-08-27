@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513255832 source:c:\users\piero\desktop\exe2file\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

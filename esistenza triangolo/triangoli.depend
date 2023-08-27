@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1509909494 source:c:\users\piero\desktop\triangoli\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1509909494 source:c:\users\piero\desktop\informatica\esistenza triangolo\main.c
+	<stdio.h>
+	<stdlib.h>
+

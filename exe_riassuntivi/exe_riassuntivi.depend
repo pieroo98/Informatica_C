@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518388701 source:c:\users\piero\desktop\exe_riassuntivi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
