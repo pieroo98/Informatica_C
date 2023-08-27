@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1512062881 source:c:\users\piero\desktop\laib5exe4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1512120013 source:c:\users\piero\desktop\successione minotona crescente\main.c
+	<stdio.h>
+	<stdlib.h>
+

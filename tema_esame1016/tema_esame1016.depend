@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518781589 source:c:\users\piero\desktop\tema_esame1016\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

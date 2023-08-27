@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1518294296 source:c:\users\piero\desktop\laib11_exe5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1518433971 source:c:\users\piero\desktop\tariffe_call\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

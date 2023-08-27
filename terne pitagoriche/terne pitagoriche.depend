@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513875683 source:c:\users\piero\desktop\terne pitagoriche\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
