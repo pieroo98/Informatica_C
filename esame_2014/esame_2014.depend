@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1518606020 source:c:\users\piero\desktop\esame_2014\main.c
+	<stdio.h>
+	<stdlib.h>
+

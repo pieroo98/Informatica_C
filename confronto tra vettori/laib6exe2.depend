@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1511960624 source:c:\users\piero\desktop\laib6exe2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1512502261 source:c:\users\piero\desktop\informatica\confronto tra vettori\main.c
+	<stdio.h>
+	<stdlib.h>
+
